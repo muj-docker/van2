@@ -16,5 +16,9 @@
     "url": "https://github.com/muj-docker/van2/issues"
   },
   "homepage": "https://github.com/muj-docker/van2#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
 }
