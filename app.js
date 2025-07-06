@@ -1,2 +1,2 @@
 import { vat } from './vat.js';
-alert(vat());
+mujSpan.innerText = vat();
